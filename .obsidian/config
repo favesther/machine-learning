@@ -1,0 +1,19 @@
+{
+  "enabledPlugins": [],
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "file-explorer": true,
+    "global-search": true,
+    "switcher": true,
+    "graph": true,
+    "backlink": true,
+    "command-palette": true,
+    "markdown-importer": true,
+    "word-count": true,
+    "custom-css": true
+  },
+  "fileSortOrder": "byCreatedTimeReverse",
+  "promptDelete": false,
+  "attachmentFolderPath": "Untitled",
+  "alwaysUpdateLinks": true
+}

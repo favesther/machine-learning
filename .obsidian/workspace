@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "5fb6394b2a919236",
+    "type": "split",
+    "children": [
+      {
+        "id": "019110310b5826dc",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "statistics/Generalized Linear Models.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd96140d1d357933",
+    "type": "split",
+    "children": [
+      {
+        "id": "f71dc3d84ec69c66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcc80d89ad1ece03",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "717c052b65b5c9c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Sigmoid"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "84be00175a417bb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2661d113b8178614",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bde8e353c4f2cd3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "statistics/Generalized Linear Models.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "statistics/Generalized Linear Models.md",
+    "Untitled.md",
+    "Classification and logistic regression.md",
+    "statistics/logistic regression/logistic regression.md",
+    "Likelihood.md",
+    "statistics/logistic regression/log-likelihood.md",
+    "statistics/logistic regression/Sigmoid.md",
+    "statistics/logistic regression/the logistic function.md",
+    "log-likehood.md",
+    "statistics/Sigmoid.md"
+  ]
+}
