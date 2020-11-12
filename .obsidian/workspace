@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "statistics/Generalized Linear Models.md",
-            "mode": "preview"
+            "file": "SVM.md",
+            "mode": "source"
           }
         }
       }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "statistics/Generalized Linear Models.md"
+                "file": "SVM.md"
               }
             }
           }
@@ -76,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "statistics/Generalized Linear Models.md",
-    "Untitled.md",
+    "SVM.md",
+    "model selection.md",
     "Classification and logistic regression.md",
-    "statistics/logistic regression/logistic regression.md",
-    "Likelihood.md",
-    "statistics/logistic regression/log-likelihood.md",
-    "statistics/logistic regression/Sigmoid.md",
-    "statistics/logistic regression/the logistic function.md",
-    "log-likehood.md",
-    "statistics/Sigmoid.md"
+    "Untitled.md",
+    "statistics/Generalized Linear Models.md",
+    "statistics/distributions/binomial distribution.md",
+    "The  is used to describe the number of successes in a  xed number of.md",
+    "statistics/distributions/poisson distribution.md",
+    "statistics/poisson distribution.md",
+    "statistics/hypothesis testing/chi-square tests.md"
   ]
 }

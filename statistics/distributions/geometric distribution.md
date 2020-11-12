@@ -1,0 +1,1 @@
+The geometric distribution is used to describe how many trials it takes to observe a success.

@@ -1,0 +1,1 @@
+The goal of Support Vector Machines is to find the line that maximizes the minimum distance to a line
