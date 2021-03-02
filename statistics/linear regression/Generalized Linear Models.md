@@ -24,3 +24,7 @@ Generalized Linear Models (GLM) to predict a random variable $y$ using a functio
 3. $\quad\boxed{\eta=\theta^Tx}$ 
 
 >Remark: ordinary least squares and logistic regression are special cases of generalized linear models.
+
+## GLMs modeling framework:
+• Generalizes regression to include response variables that are not normally distributed.
+• Applies a link function to appropriately transform the scale of the response variable

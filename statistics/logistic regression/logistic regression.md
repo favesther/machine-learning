@@ -19,4 +19,6 @@ $$l(D|\theta)=\sum_{i=1}^n\left[y_i\log\mu_i+(1-y_i)\log(1-\mu_i)\right]$$
 
 ## charateristic function 特征函数 
 $$\phi(t)=1+p(e^{it}-1)$$
+
+
 	

@@ -1,0 +1,1 @@
+ (output variable or dependent variable): The variable that you want to predict.

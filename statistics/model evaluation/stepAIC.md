@@ -1,0 +1,4 @@
+The `direction` argument of `stepAIC` controls the mode of the stepwise model search:
+* `backward`: removes predictors sequentially from the given model. It produces a sequence of models of decreasing complexity until attaining the optimal one.
+* `forward`: adds predictors sequentially to the given model, using the available ones in the data argument of lm. It produces a sequence of models of increasing complexity until attaining the optimal one.
+* `both` (default): a forward-backward search that, at each step, decides whether to include or exclude a predictor. Differently from the previous modes, a predictor that was excluded/included previously can be later included/excluded.

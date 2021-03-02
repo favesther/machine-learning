@@ -61,6 +61,7 @@ common models:
 ## Gaussian mixture model
 * Feature extraction from speech data for use in speech recognition systems
 * Object tracking of multiple objects, where the number of mixture components and their means predict object locations at each frame in a video sequence.
+
 ## predict human decision
 * Predict **how likely** someone is to click on an online ad
 	* [[logistic regression]]

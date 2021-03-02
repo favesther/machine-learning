@@ -1,5 +1,6 @@
 # Linear regression
 assume $y|x;\theta\sim\mathcal{N}(\mu,\sigma^2)$
+the error terms have a constant variance
 
 ## Normal equations
 $X$ is the design matrix

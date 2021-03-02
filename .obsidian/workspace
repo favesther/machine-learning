@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "019110310b5826dc",
+        "id": "3fde38b553bca8a6",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SVM.md",
-            "mode": "source"
+            "file": "model selection.md",
+            "mode": "preview"
           }
         }
       }
@@ -40,7 +40,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Sigmoid"
+                "query": "roc",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -48,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 385.0007801055908
   },
   "right": {
     "id": "84be00175a417bb8",
@@ -64,7 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SVM.md"
+                "file": "model selection.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -76,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "SVM.md",
     "model selection.md",
-    "Classification and logistic regression.md",
-    "Untitled.md",
-    "statistics/Generalized Linear Models.md",
-    "statistics/distributions/binomial distribution.md",
-    "The  is used to describe the number of successes in a  xed number of.md",
-    "statistics/distributions/poisson distribution.md",
-    "statistics/poisson distribution.md",
-    "statistics/hypothesis testing/chi-square tests.md"
+    "statistics/model fitting/RMSE.md",
+    "statistics/model fitting/R-squared.md",
+    "statistics/model fitting/RSE.md",
+    "statistics/model evaluation/AIC.md",
+    "statistics/model evaluation/stepAIC.md",
+    "statistics/model fitting/RSS.md",
+    "statistics/model fitting/LOOCV.md",
+    "Cost function.md",
+    "Loss function.md"
   ]
 }

@@ -16,3 +16,5 @@ Question: Is there a relationship between the type of school attended (schtyp) a
 	* If p-value < 0.05, reject NULL hypothesis
 	
 `chisq.test(table(female, schtyp))`
+
+
