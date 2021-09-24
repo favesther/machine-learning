@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Spark/reduce().md",
-            "mode": "source"
+            "file": "Spark/Complex data types.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.0007801055908
+    "width": 254
   },
   "right": {
     "id": "84be00175a417bb8",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spark/reduce().md",
+                "file": "Spark/Complex data types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "3fde38b553bca8a6",
   "lastOpenFiles": [
-    "Spark/reduce().md",
-    "Spark/exists().md",
-    "Spark/Untitled.md",
-    "Spark/Higher-Order Functions.md",
-    "Spark/transform().md",
     "Spark/Complex data types.md",
+    "Spark/Higher-Order Functions.md",
+    "Spark/exists().md",
+    "Spark/filter().md",
+    "Spark/transform().md",
+    "Spark/ast.md",
+    "Spark/reduce().md",
+    "Spark/Untitled.md",
     "model selection.md",
-    "statistics/model fitting/RMSE.md",
-    "statistics/model fitting/R-squared.md",
-    "statistics/model fitting/RSE.md"
+    "statistics/model fitting/RMSE.md"
   ]
 }

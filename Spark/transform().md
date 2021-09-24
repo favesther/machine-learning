@@ -11,3 +11,10 @@ transform(celsius, t -> ((t * 9) div 5) + 32) as fahrenheit
 FROM tC
 """).show()
 ```
+
+Results:
+
+celsius| fahrenheit
+:--:|:--:
+ [35, 36, 32, 30, ...]|[95, 96, 89, 86, ...]
+ [31, 32, 34, 55, 56]|[87, 89, 93, 131,...]
