@@ -7,15 +7,8 @@
         "id": "a102e23f0b49b33a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-<<<<<<< Updated upstream
-            "file": "Spark/Complex data types.md",
-=======
-            "file": "statistics/logistic regression/the logistic function.md",
->>>>>>> Stashed changes
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -43,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "noise",
+                "query": "sentiment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,11 +49,7 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< Updated upstream
-    "width": 254
-=======
     "width": 287.5
->>>>>>> Stashed changes
   },
   "right": {
     "id": "84be00175a417bb8",
@@ -76,11 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Spark/Complex data types.md",
-=======
-                "file": "statistics/logistic regression/the logistic function.md",
->>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,32 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-<<<<<<< Updated upstream
-  "active": "3fde38b553bca8a6",
-  "lastOpenFiles": [
-    "Spark/Complex data types.md",
-    "Spark/Higher-Order Functions.md",
-    "Spark/exists().md",
-    "Spark/filter().md",
-    "Spark/transform().md",
-    "Spark/ast.md",
-    "Spark/reduce().md",
-    "Spark/Untitled.md",
-    "model selection.md",
-    "statistics/model fitting/RMSE.md"
-=======
   "active": "a102e23f0b49b33a",
   "lastOpenFiles": [
-    "statistics/logistic regression/the logistic function.md",
-    "statistics/logistic regression/Sigmoid.md",
-    "statistics/logistic regression/log-likelihood.md",
-    "statistics/logistic regression/model fit/model fit.md",
-    "statistics/linear regression/Influence.md",
-    "statistics/linear regression/least squares line.md",
-    "statistics/linear regression/Leverage.md",
-    "statistics/linear regression/Null model.md",
+    "database/A/Self-Intro.md",
+    "sentiment analysis.md",
     "SVM.md",
-    "Textblob.md"
->>>>>>> Stashed changes
+    "Textblob.md",
+    "Untitled.md",
+    "model selection.md",
+    "database/A/MAQ.md",
+    "database/Untitled.md",
+    "database/Data Warehousing/Process Flow.md",
+    "database/Data Warehousing/build ETL pipeline.md"
   ]
 }

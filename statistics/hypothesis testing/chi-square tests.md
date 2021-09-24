@@ -12,7 +12,7 @@ Question: Is there a relationship between the type of school attended (schtyp) a
 	* H0: schtype and gender are independent
 	* Ha: schtype and gender are not independent
 * Check your test statistic
-	* Level of significance = p-value
+	* Level of significance = [[p-value]]
 	* If p-value < 0.05, reject NULL hypothesis
 	
 `chisq.test(table(female, schtyp))`

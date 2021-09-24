@@ -1,5 +1,10 @@
 {
   "theme": "obsidian",
+<<<<<<< Updated upstream
   "baseFontSize": 16,
   "cssTheme": "Cyber Glow"
+=======
+  "baseFontSize": 18,
+  "cssTheme": "Obsidian Nord"
+>>>>>>> Stashed changes
 }

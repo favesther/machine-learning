@@ -1,0 +1,1 @@
+history load -> ad hoc query -> automation 

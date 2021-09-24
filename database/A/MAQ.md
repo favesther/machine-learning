@@ -1,0 +1,14 @@
+         
+# About MAQ Software
+
+MAQ Software accelerates data-driven transformations for Fortune 500 companies. Using data analytics, cloud technology, and data science, we accelerate software initiatives that enable our customers to transform their industries. We help our clients build stronger customer relationships, drive sales, identify new opportunities, and analyze marketing results from our three engineering centers located in Redmond, WA and India.
+
+As a member of the Microsoft Partner Network (MPN) with ten Gold competencies, we offer customers a breadth of proven expertise across the entire Microsoft platform. We are the largest 3rd party publisher of certified Power BI visuals on AppSource and a Power BI Preferred Partner. As a premier supplier to the Microsoft Corporation, we deliver critical business insights to decision makers.
+
+# Case Studies
+
+We built a supervised machine learning model that forecasts the impact of retail sales on our client’s overall revenue. We collected data from existing customer relationship management (CRM) and sales systems. We created a forecasting model in Azure Databricks using existing and custom linear regression to process the collected data. To reduce forecast runtime and achieve near real-time analysis, we modified the existing R libraries to SparkR. The improved insight helped our client proactively focus on retailers with the highest sales impact.
+
+We built a check-in app for one of our client’s most attended event. A multinational technology company organizes an annual multi-event internal expo attended by thousands of their employees. The manual process of tracking attendance, sending acknowledgments, and receiving feedback was time consuming. To automate the process, we built a check-in app that uses mobile devices’ camera to capture the identification badge of each participant. The captured images are stored in an Azure Blob. An Azure Logic App reads the image content utilizing Optical Character Recognition (OCR) API to update attendance records. After the event, notifications are sent to attendees via Microsoft Teams to complete a feedback survey using a Microsoft Power Automate Bot. The Feedback App reports the survey responses to determine the Customer Satisfaction (CSAT) score of the event.
+
+For another client with high volume data, we developed and implemented a hybrid data processing solution using Azure Stream Analytics and Azure Databricks to reduce data refresh time from 3 hours to less than 30 minutes. We sourced data from the Azure Event Hub, where refreshes originate. Refreshes are captured through stream analytics and the updated data is pushed to Azure Data Lake Storage (ADLS). The data is processed in ADLS, then pushed to Power BI for reporting.

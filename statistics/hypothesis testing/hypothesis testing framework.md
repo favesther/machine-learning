@@ -16,3 +16,9 @@ Step 2: Set the significance level for p (typically 0.05 or 0.01) Collect Data
 Step 3: Calculate the test statistic
 Step 4: Decide whether or not to reject the null hypothesis by comparing test statistics to critical value.
 Step 5: Interpret the results
+
+   
+### What test statistic to use
+
+-   Depends on the levels of measurement of the variables
+-   Depends on the research question you are asking

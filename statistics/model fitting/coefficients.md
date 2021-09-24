@@ -1,6 +1,6 @@
 Regression key question: Is there a relation between the response and the explanatory variable?
 
-we compute a t-statistic to determine whether we can reject $H_0$. Check p-value
+we compute a t-statistic to determine whether we can reject $H_0$. Check [[p-value]]
 
 When there is no relationship between the response and predictors, one would expect the F-statistic to take on a value close to 1.
 
