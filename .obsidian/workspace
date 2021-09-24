@@ -6,12 +6,11 @@
       {
         "id": "3fde38b553bca8a6",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "model selection.md",
-            "mode": "preview"
+            "file": "Spark/reduce().md",
+            "mode": "source"
           }
         }
       }
@@ -69,10 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "model selection.md",
+                "file": "Spark/reduce().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,16 +86,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "3fde38b553bca8a6",
   "lastOpenFiles": [
+    "Spark/reduce().md",
+    "Spark/exists().md",
+    "Spark/Untitled.md",
+    "Spark/Higher-Order Functions.md",
+    "Spark/transform().md",
+    "Spark/Complex data types.md",
     "model selection.md",
     "statistics/model fitting/RMSE.md",
     "statistics/model fitting/R-squared.md",
-    "statistics/model fitting/RSE.md",
-    "statistics/model evaluation/AIC.md",
-    "statistics/model evaluation/stepAIC.md",
-    "statistics/model fitting/RSS.md",
-    "statistics/model fitting/LOOCV.md",
-    "Cost function.md",
-    "Loss function.md"
+    "statistics/model fitting/RSE.md"
   ]
 }
