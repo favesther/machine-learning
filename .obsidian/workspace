@@ -1,20 +1,16 @@
 {
   "main": {
-    "id": "5fb6394b2a919236",
+    "id": "345448ceb25a20e8",
     "type": "split",
     "children": [
       {
-        "id": "a102e23f0b49b33a",
+        "id": "7e819b12f332ad45",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< Updated upstream
-            "file": "Spark/Complex data types.md",
-=======
-            "file": "statistics/logistic regression/the logistic function.md",
->>>>>>> Stashed changes
-            "mode": "preview"
+            "file": "sql/coalesce.md",
+            "mode": "source"
           }
         }
       }
@@ -22,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "cd96140d1d357933",
+    "id": "e17bb2fb111b7744",
     "type": "split",
     "children": [
       {
-        "id": "f71dc3d84ec69c66",
+        "id": "751bbf63c23f5181",
         "type": "tabs",
         "children": [
           {
-            "id": "bcc80d89ad1ece03",
+            "id": "2384d492a99eb90a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -38,12 +34,12 @@
             }
           },
           {
-            "id": "717c052b65b5c9c3",
+            "id": "9bf3415316698cfc",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "noise",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,31 +52,23 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< Updated upstream
-    "width": 254
-=======
-    "width": 287.5
->>>>>>> Stashed changes
+    "width": 300
   },
   "right": {
-    "id": "84be00175a417bb8",
+    "id": "fa537b187ee74129",
     "type": "split",
     "children": [
       {
-        "id": "2661d113b8178614",
+        "id": "9b0127bd9ebec4f6",
         "type": "tabs",
         "children": [
           {
-            "id": "bde8e353c4f2cd3c",
+            "id": "308306b4da4f5ca9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Spark/Complex data types.md",
-=======
-                "file": "statistics/logistic regression/the logistic function.md",
->>>>>>> Stashed changes
+                "file": "sql/coalesce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,32 +86,10 @@
     "width": 300,
     "collapsed": true
   },
-<<<<<<< Updated upstream
-  "active": "3fde38b553bca8a6",
+  "active": "7e819b12f332ad45",
   "lastOpenFiles": [
-    "Spark/Complex data types.md",
-    "Spark/Higher-Order Functions.md",
-    "Spark/exists().md",
-    "Spark/filter().md",
-    "Spark/transform().md",
-    "Spark/ast.md",
-    "Spark/reduce().md",
-    "Spark/Untitled.md",
-    "model selection.md",
-    "statistics/model fitting/RMSE.md"
-=======
-  "active": "a102e23f0b49b33a",
-  "lastOpenFiles": [
-    "statistics/logistic regression/the logistic function.md",
-    "statistics/logistic regression/Sigmoid.md",
-    "statistics/logistic regression/log-likelihood.md",
-    "statistics/logistic regression/model fit/model fit.md",
-    "statistics/linear regression/Influence.md",
-    "statistics/linear regression/least squares line.md",
-    "statistics/linear regression/Leverage.md",
-    "statistics/linear regression/Null model.md",
-    "SVM.md",
-    "Textblob.md"
->>>>>>> Stashed changes
+    "sql/Untitled.md",
+    "database/A/MAQ.md",
+    "database/A/aSelf-Intro.md"
   ]
 }

@@ -1,24 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "enabledPlugins": [],
-  "fileSortOrder": "byCreatedTime",
-=======
-  "obsidianCss": true,
-  "enabledPlugins": [],
-  "fileSortOrder": "alphabetical",
->>>>>>> Stashed changes
   "promptDelete": false,
-  "attachmentFolderPath": "images",
-  "alwaysUpdateLinks": true,
-  "pdfExportSettings": {
-    "pageSize": "A4",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
-<<<<<<< Updated upstream
-  }
-=======
-  },
-  "showFrontmatter": true
->>>>>>> Stashed changes
+  "fileSortOrder": "byCreatedTime"
 }
