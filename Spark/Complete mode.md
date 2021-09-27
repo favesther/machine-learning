@@ -1,0 +1,1 @@
+The entire updated result table will be written to external storage.

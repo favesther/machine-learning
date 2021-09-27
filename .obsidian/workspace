@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sql/coalesce.md",
-            "mode": "preview"
+            "file": "Spark/Streaming Query.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sql/coalesce.md",
+                "file": "Spark/Streaming Query.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,15 @@
   },
   "active": "7e819b12f332ad45",
   "lastOpenFiles": [
-    "sql/Untitled.md",
-    "database/A/MAQ.md",
-    "database/A/aSelf-Intro.md"
+    "Spark/Streaming Query.md",
+    "Spark/outputMode.md",
+    "Spark/Untitled.md",
+    "Spark/Untitled 1.md",
+    "Spark/Structured Streaming.md",
+    "R/rnotes.md",
+    "R/making predictions.md",
+    "R/visualizing logistic regression.md",
+    "sql/coalesce.md",
+    "sql/Untitled.md"
   ]
 }

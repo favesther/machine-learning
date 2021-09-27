@@ -1,0 +1,1 @@
+Operations like `select()`, `filter()`, `map()`, etc. do not require any information from previous rows to process the next row; each row can be processed by itself. The lack of previous “state” in these operations make them stateless. Stateless operations can be applied to both batch and streaming DataFrames.

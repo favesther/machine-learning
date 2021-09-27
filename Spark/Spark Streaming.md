@@ -1,0 +1,3 @@
+Spark Streaming (also called DStreams). It introduced the idea of _micro-batch stream processing_, where the streaming computation is modeled as a continuous series of small, map/reduce-style batch processing jobs (hence, “micro-batches”) on small chunks of the stream data.
+
+Spark Streaming divides the data from the input stream into, say, 1-second micro-batches. Each batch is processed in the Spark cluster in a distributed manner with small deterministic tasks that generate the output in micro-batches.
