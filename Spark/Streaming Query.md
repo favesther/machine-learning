@@ -38,3 +38,23 @@ writer = counts.writeStream.format("console").outputMode("complete")
 ```
 
 ## Step 4: Specify processing details
+
+```py
+checkpointDir = "..." 
+writer2 = (writer
+	.trigger(processingTime="1 second")
+	.option("checkpointLocation", checkpointDir))
+```
+
+* [[Trigger]]ing details
+* Checkpoint location
+
+## Step 5: Start the query
+```py
+streamingQuery = writer2.start()
+```
+
+* `start()` - a nonblocking method, so it will return as soon as the query has started in the background
+* `streamingQuery.awaitTermination()` - the main thread to block until the streaming query has terminated
+	* wait up to a timeout duration using `awaitTermination(timeoutMillis)`
+* stop the query with `streamingQuery.stop()`

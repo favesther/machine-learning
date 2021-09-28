@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Spark/Streaming Query.md",
+            "file": "Spark/Custom Streaming Sources and Sinks.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spark/Streaming Query.md",
+                "file": "Spark/Custom Streaming Sources and Sinks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "7e819b12f332ad45",
   "lastOpenFiles": [
-    "Spark/Streaming Query.md",
-    "Spark/outputMode.md",
     "Spark/Untitled.md",
-    "Spark/Untitled 1.md",
+    "Spark/Write.md",
+    "Spark/Read.md",
+    "Spark/Trigger.md",
+    "Spark/outputMode.md",
+    "Spark/Spark Streaming.md",
+    "Spark/Stateful transformations.md",
+    "Spark/Streaming Query.md",
     "Spark/Structured Streaming.md",
-    "R/rnotes.md",
-    "R/making predictions.md",
-    "R/visualizing logistic regression.md",
-    "sql/coalesce.md",
-    "sql/Untitled.md"
+    "Spark/write.md"
   ]
 }
