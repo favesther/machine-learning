@@ -1,0 +1,1 @@
+TO_DAYS(t1.Date)

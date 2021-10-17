@@ -7,11 +7,8 @@
         "id": "7e819b12f332ad45",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Spark/Untitled.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spark/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +84,15 @@
   },
   "active": "7e819b12f332ad45",
   "lastOpenFiles": [
-    "Spark/Untitled.md",
-    "Spark/Write.md",
-    "Spark/Read.md",
-    "Spark/Trigger.md",
-    "Spark/outputMode.md",
-    "Spark/Spark Streaming.md",
-    "Spark/Stateful transformations.md",
+    "sql/SQL/union.md",
+    "sql/SQL/exclude.md",
+    "sql/exclude.md",
+    "Textblob.md",
+    "sentiment analysis.md",
+    "Self-Intro.md",
+    "Spark/Stateless transformations.md",
     "Spark/Streaming Query.md",
-    "Spark/Structured Streaming.md",
-    "Spark/write.md"
+    "Spark/outputMode.md",
+    "Spark/Untitled.md"
   ]
 }
