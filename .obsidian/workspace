@@ -84,15 +84,15 @@
   },
   "active": "7e819b12f332ad45",
   "lastOpenFiles": [
-    "sql/SQL/union.md",
-    "sql/SQL/exclude.md",
-    "sql/exclude.md",
-    "Textblob.md",
-    "sentiment analysis.md",
-    "Self-Intro.md",
-    "Spark/Stateless transformations.md",
-    "Spark/Streaming Query.md",
+    "Spark/create dataframe.md",
+    "Spark/Untitled.md",
+    "database/Data Lakes.md",
+    "database/Untitled.md",
+    "Spark/Custom Streaming Sources and Sinks.md",
+    "Spark/Write.md",
+    "Spark/Read.md",
+    "Spark/Trigger.md",
     "Spark/outputMode.md",
-    "Spark/Untitled.md"
+    "Spark/Spark Streaming.md"
   ]
 }
