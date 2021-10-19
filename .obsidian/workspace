@@ -7,8 +7,16 @@
         "id": "7e819b12f332ad45",
         "type": "leaf",
         "state": {
+<<<<<<< Updated upstream
           "type": "empty",
           "state": {}
+=======
+          "type": "markdown",
+          "state": {
+            "file": "Spark/create dataframe.md",
+            "mode": "source"
+          }
+>>>>>>> Stashed changes
         }
       }
     ],
@@ -65,6 +73,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
+=======
+                "file": "Spark/create dataframe.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
