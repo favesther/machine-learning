@@ -1,3 +1,32 @@
+I'm a data engineer working on a supply chain services project at T-Mobile. My role in this project to build structured streaming data pipelines, develop tables, and prepare the data on the PowerBI dashboards for the audit team. 
+Technically, I'm still a recent graduate as you probably have seen on my resume. I graduated from the University of Washington last summer. I was more of a data analyst/business intelligence years before, analyzing data, drawing insightful charts. With the interest in the value of the big data, I started my data science journey while pursuing the master's degree. Not until I was selected to work on a Microsoft project when I got to know the significance of the data engineer's role in the data workflow. Considering my personality that I like to approach precision, and I have strong sense of responsibility which drives me to push things forward with diligence, intention and hard work. I'm certain I'm a good fit for this data engineer position.
+
+
+Why leave current company?
+hired by prokarma, for t-mobile as a client
+but then prokarma got acquired by concentrix, so everything became uncertain then. I will need to request for a new opt because the company changed at some time in June after the transfer of all the prokarma's assets is complete. Then don't know when I can come to the sponsorship discussion again. 
+Visa is one of the priorities for me. 
+And I also values the type of data and the meaning of my work. I'm looking for my new adventure where I can do something real good. Especially when I'm worried about health and life quality of my families and friends in such a hard period of time for the whole world.  
+
+
+
+
+1. And I like to use backwards engineering method to find the point where it violates the logic and fix bugs.  
+
+
+
+
+
+
+To speak from high level, I compile data and help create insightful tools to reduce loss for the business. And from a lower level, I use some efficient data processing tools such as structured streaming, delta live table to build data pipeline and 
+
+
+Xinyi has more than two years of hands-on data analysis and engineering experience. At T-Mobile, she builds ETL pipelines with structured streaming, delta lake, and delta live table. She showed acute insights and great perception during data processing. While she was building a new framework, she incorporates production data rather than following the in-design guidelines, successfully optimized an aged problem in the existed system. Thanks to her excel in reverse engineering to find solutions to the issues.
+
+She is not only specialized in discernment, but her strong self-management skills also contribute to high performance. Her team members and supervisor got sick and was gone for one week. She continued to work cross-functionally with other teams, covered for her team members, and assigned tasks to herself to push the project forward.
+
+
+
 I have a master of science degree in information science and I focused more on the data science and business intelligence when I was pursuing this degree. Before graduation, I was hired by Microsoft as a part-time intern for a capstone project to help Microsoft improve the customer retention of their Azure automated machine learning. In that role, I was responsible to query and analyze large amounts of structured telemetry data and unstructured data from interview transcripts. 
 
 I was not specialized in technical data analytics at the beginning. I was majored in applied mathematics when I was pursuing my bachelor's degree, and eventually migrated to data analysis through these years. In my prior full-time experience working at an equity exchange company, I realized that data can tell us more about our clients and even predict their future progress if more data could be collected and analyzed using more technical approaches. I wanted to help the business better utilize data to maximize the value. That's the motivation that drove me to get where I'm now. So now I'm skilled in SQL especially Data Manipulation Language and Python. And I'm currently learning more about PySpark because the capstone project used PySpark on Databricks for data analysis. I liked it as a useful tool so I want to dive deeper to know more about this language.

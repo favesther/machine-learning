@@ -1,0 +1,4 @@
+I'm a data engineer 
+Xinyi is currently a data engineer working on a supply chain services project at T-Mobile. Xinyi has more than two years of hands-on data analysis and engineering experience. At T-Mobile, she builds ETL pipelines with structured streaming, delta lake, and delta live table. She showed acute insights and great perception during data processing. While she was building a new framework, she incorporates production data rather than following the in-design guidelines, successfully optimized an aged problem in the existed system. Thanks to her excel in reverse engineering to find solutions to the issues.
+
+She is not only specialized in discernment, but her strong self-management skills also contribute to high performance. Her team members and supervisor got sick and was gone for one week. She continued to work cross-functionally with other teams, covered for her team members, and assigned tasks to herself to push the project forward.
