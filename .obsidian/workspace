@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Self-Intro.md",
+            "file": "sql/preceding.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self-Intro.md",
+                "file": "sql/preceding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "16294e4616e677d9",
   "lastOpenFiles": [
+    "sql/preceding.md",
+    "sql/complicated examples.md",
     "Self-Intro.md",
     "python/EDA.md",
     "python/python notes.md",
@@ -95,8 +97,6 @@
     "Spark/ast.md",
     "Spark/exists().md",
     "Spark/Untitled.md",
-    "Spark/create dataframe.md",
-    "Spark/Spark Streaming.md",
-    "Spark/Streaming Query.md"
+    "Spark/create dataframe.md"
   ]
 }
