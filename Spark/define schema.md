@@ -1,4 +1,4 @@
-# 1. define a schema programmatically for a DataFrame
+### 1. define a schema programmatically for a DataFrame
 
 ```py
 from pyspark.sql.types import * 
@@ -9,12 +9,12 @@ schema = StructType([
 ])
 ```
 
-# 2. using DDL
+### 2. using DDL
 ```py
 schema = "author STRING, title STRING, pages INT"
 ```
 
-# using both
+### using both
 
 ```py
 # In Python 
