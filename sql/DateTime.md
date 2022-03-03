@@ -13,3 +13,6 @@
 
 ## get today's date
 `CURDATE()` = `DATE(NOW())` = `CURRENT_DATE`
+
+ ## string <-> timestamp conversion
+`from_unixtime(unix_timestamp(FX.ReportTimestamp, 'yyyyMMddHHmmss'))`
