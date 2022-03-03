@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sql/preceding.md",
-            "mode": "source"
+            "file": "sql/lead, lag, decode.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 526
+    "width": 349
   },
   "right": {
     "id": "fa537b187ee74129",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sql/preceding.md",
+                "file": "sql/lead, lag, decode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "16294e4616e677d9",
   "lastOpenFiles": [
-    "sql/preceding.md",
-    "sql/complicated examples.md",
-    "Self-Intro.md",
-    "python/EDA.md",
-    "python/python notes.md",
-    "Spark/Structured Streaming.md",
-    "Spark/ast.md",
-    "Spark/exists().md",
-    "Spark/Untitled.md",
-    "Spark/create dataframe.md"
+    "sql/lead, lag, decode.md",
+    "sql/consecutive days.md",
+    "images/Pasted image 20201119174232.png",
+    "images/Pasted image 20201119183100.png",
+    "images/Pasted image 20201213012752.png",
+    "images/Pasted image 20201213020637.png",
+    "images/q3a.png",
+    "images/Pasted image 20210817002846.png",
+    "images/q2b.png",
+    "database/semi-structured data.md"
   ]
 }

@@ -1,8 +1,36 @@
-* 首先使用decode判断当前行id是奇数还是偶数，如果是奇数用lead函数往下一行偏移查数据，如果是偶数用lag函数往上一行偏移查数据。
-* lead(field, num, defaultvalue) field需要查找的字段，num往后查找的num行的数据，defaultvalue没有符合条件的默认值。
-* lag(field, num, defaultvalue)与lead(field, num, defaultvalue)刚好相反，是往前查找num行的数据。
+### lead, lag
+前一个，后一个
+```sql
+SELECT
+         n,
+         LAG(n, 1, null)      OVER w AS 'lag',
+         LEAD(n, 1, null)     OVER w AS 'lead',
+         n + LAG(n, 1, null)  OVER w AS 'next_n',
+         n + LEAD(n, 1, null) OVER w AS 'next_next_n'
+FROM fib
+WINDOW w AS (ORDER BY n);
+```
+	   
 
-作者：wurr
-链接：https://leetcode-cn.com/problems/exchange-seats/solution/oracleli-yong-decode-laghe-leadhan-shu-b-8zcx/
-来源：力扣（LeetCode）
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+n | lag | lead | next_n | next_next_n
+:--:|:--:|:--:|:--:|:--:
+1 |    null |    1 |      1 |2
+ 1 |    1 |    2 |      2 |3
+ 2 |    1 |    3 |      3 |5 
+ 3 |    2 |    5 |      5 |8 
+ 5 |    3 |    8 |      8 |13 
+ 8 |    5 |    null |     13 |8 
+ 
+
+#### [180. Consecutive Numbers](https://leetcode-cn.com/problems/consecutive-numbers/)
+```sql
+	select distinct num as ConsecutiveNums 
+	from(
+		 select *,
+				 lag(num, 1, null) over w as lag_num,
+				 lead(num, 1, null) over w as lead_num
+		 from Logs
+		 WINDOW w as (order by id)
+	) as t
+	where t.num = t.lag_num and t.num = t.lead_num
+```
