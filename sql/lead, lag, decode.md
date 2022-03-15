@@ -34,3 +34,19 @@ n | lag | lead | next_n | next_next_n
 	) as t
 	where t.num = t.lag_num and t.num = t.lead_num
 ```
+
+#### [2142. The Number of Passengers in Each Bus I](https://leetcode-cn.com/problems/the-number-of-passengers-in-each-bus-i/)
+
+```sql 
+
+with a as(
+	select *, 
+			lag(arrival_time,1,0) over (order by arrival_time) as last_bus
+	from Buses
+)
+select bus_id, count(passenger_id) as passengers_cnt 
+from a
+left join Passengers p 
+	on p.arrival_time > a.last_bus and p.arrival_time <= a.arrival_time 
+group by a.bus_id
+order by 1```
