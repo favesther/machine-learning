@@ -1,0 +1,1 @@
+Denationalization is used when there is a lot of tables involved in retrieving data. Denormalization is done in dimensional modelling used to construct a data warehouse. This is not usually done for databases of transnational systems.

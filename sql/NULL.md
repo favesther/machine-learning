@@ -1,0 +1,2 @@
+Q: If a unique constraint is applied to a column then will it throw an error if you try to insert two nulls into it? 
+Ans: No, it will not throw any error in this case because **a null value is unequal to another null value**. So, more than one null will be inserted in the column without any error.

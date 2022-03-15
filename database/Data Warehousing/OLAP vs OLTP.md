@@ -1,7 +1,11 @@
- What are the differences between <font color = 'orange'>data warehousing</font> and <font color = 'yellow'>data mining</font>?  
+OLTP - payload data
+OLAP - transaction reconciliation tables
+What are the differences between <font color = 'orange'>data warehousing</font> and <font color = 'yellow'>data mining</font>?  
 #OLTP VS #OLAP  
-OLTP stands for Online Transactional Processing. OLAP stands for Online Analytical Processing.  
-OLTP is a relational database, and it is used to manage the day to day transaction. OLAP is a multidimensional system, and it is also called a data warehouse.
+-   **Online-transactional processing(OLTP):** these are typically high-concurrency, low-latency, simple queries that read or update a few records at a time: Like Bank account Transactions
+-   **Online Analytical Processing (OLAP):** these workloads are like periodic reporting, are typically complex queries (involving aggregates and joins) that require high-throughput scans over many records.
+
+![[Pasted image 20220312163252.png]]
 
 Sr.No.|Data Warehouse (OLAP)|Operational Database(OLTP)
 :--:|:--|:--

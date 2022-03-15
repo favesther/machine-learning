@@ -1,0 +1,3 @@
+**_Normalization_** is the process of structuring a relational database in accordance with a series of Normal forms in order to reduce **data redundancy** and increase **data integrity.**
+
+**_Denormalization_** is the process of trying to **improve the read performance** of a database at the expense of losing some write performance by adding redundant copies of data. Simply put, this means having duplicate copies of data, it feels like an unnatural process however this process must be done in read-heavy workloads to increase performance.

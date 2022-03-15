@@ -1,17 +1,14 @@
 I'm a data engineer working on a supply chain services project at T-Mobile. My role in this project to build (structured streaming )data pipelines, develop tables, and prepare the data on the PowerBI dashboards for the audit team to do the transaction reconciliation. 
 Before my current job, I was more of a data analyst/business analyst years before, to analyze data and draw insightful charts and diagrams. With the interest in the value of the big data, I started my data science journey. I got my master's degree and graduated from the University of Washington last summer. But not until I was selected to work on a Microsoft project when I got to know the significance of the data engineer's role in the data workflow. Considering my personality that I like to approach precision, and I have strong sense of responsibility which drives me to push things forward with diligence, intention and hard work. I'm certain I'm a good fit for this data engineer position.
 
+layers:
+what I did: 
+ETL pipelines to ingest data, streaming data from evh to staging, create primary 
+in the digital layer, data pulled from API, has different capabilities from tables, pick up the data, apply ranks and add filters to collect the correct ones, and match with the different layers on different matching keys.   
+data model design:
+
 
 Why leave current company?
-hired by prokarma, working for t-mobile as a client, by then they promised me the sponsorship
-but then prokarma got acquired by concentrix, so everything became uncertain then. The company is still transfering the assets transfer. don't know how long it would take to process the visa status for each employee. 
-The project I'm working on, the development is almost completed and it's coming to production. So I think it's time for me to start a new adventure. I can utilize my power to do something real good.
-
-
-I will need to request for a new opt because the company changed at some time in June after the transfer of all the prokarma's assets is complete. Then don't know when I can come to the sponsorship discussion again. 
-Visa is one of the priorities for me. 
-And I also values the type of data and the meaning of my work. I'm looking for my new adventure where 
-
 
 
 1. And I like to use backwards engineering method to find the point where it violates the logic and fix bugs.  
@@ -20,9 +17,6 @@ Last question:
 What can I do for this position to not only meet your expectation but also exceed it?
 
 
-
-
-To speak from high level, I compile data and help create insightful tools to reduce loss for the business. And from a lower level, I use some efficient data processing tools such as structured streaming, delta live table to build data pipeline and 
 
 
 Xinyi has more than two years of hands-on data analysis and engineering experience. At T-Mobile, she builds ETL pipelines with structured streaming, delta lake, and delta live table. She showed acute insights and great perception during data processing. While she was building a new framework, she incorporates production data rather than following the in-design guidelines, successfully optimized an aged problem in the existed system. Thanks to her excel in reverse engineering to find solutions to the issues.

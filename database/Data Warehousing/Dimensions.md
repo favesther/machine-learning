@@ -1,0 +1,5 @@
+1. [[slowly changing dimension]]
+2. [[conformed dimension]]
+3. [[junk dimension]]
+4. [[degenerate dimension]]
+5. [[role-play dimension]]

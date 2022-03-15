@@ -1,0 +1,1 @@
+For 3NF, first, the table must be in 2NF, plus, we want to make sure that the non-key fields are dependent upon ONLY the PK, and not other non-key fields for its existence. This is very similar to to 2NF, except that now you are comparing the non-key fields to OTHER non-key fields. After all, we know that the relationship to the PK is good, because we established that in 2NF.

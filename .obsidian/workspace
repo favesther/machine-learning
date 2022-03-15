@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sql/lead, lag, decode.md",
-            "mode": "preview"
+            "file": "database/Data Warehousing/marketing data.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "market",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sql/lead, lag, decode.md",
+                "file": "database/Data Warehousing/marketing data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "16294e4616e677d9",
   "lastOpenFiles": [
-    "sql/lead, lag, decode.md",
-    "sql/consecutive days.md",
-    "images/Pasted image 20201119174232.png",
-    "images/Pasted image 20201119183100.png",
-    "images/Pasted image 20201213012752.png",
-    "images/Pasted image 20201213020637.png",
-    "images/q3a.png",
-    "images/Pasted image 20210817002846.png",
-    "images/q2b.png",
-    "database/semi-structured data.md"
+    "database/Data Warehousing/marketing data.md",
+    "database/Dashboard/effective KPI.md",
+    "database/Dimensional Data Model/Untitled.md",
+    "database/Data Warehousing/Cardinality.md",
+    "database/Data Warehousing/grain.md",
+    "database/Data Warehousing/Granularity.md",
+    "database/Data Warehousing/dimensional modeling.md",
+    "3NF.md",
+    "database/Data Warehousing/denormalization.md",
+    "database/Data Warehousing/schema.md"
   ]
 }

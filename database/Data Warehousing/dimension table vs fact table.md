@@ -1,12 +1,10 @@
-A reality or fact table’s record could be a combination of attributes from totally different dimension tables. 
+![[Pasted image 20220312154807.png]]
 
 The main difference between fact table or reality table and the Dimension table is that dimension table contains attributes on that measures are taken actually table.
 
 The **Fact Table or Reality Table** helps the user to investigate the business dimensions that helps him in call taking to enhance his business. 
 
 On the opposite hand, **Dimension Tables** facilitate the reality table or fact table to gather dimensions on that the measures needs to be taken. 
-
-
 
 
 S.NO | Fact Table | Dimension Table
