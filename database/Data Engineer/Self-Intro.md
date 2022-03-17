@@ -1,17 +1,32 @@
-I'm a data engineer working on a supply chain services project at T-Mobile. My role in this project to build (structured streaming )data pipelines, develop tables, and prepare the data on the PowerBI dashboards for the audit team to do the transaction reconciliation. 
-Before my current job, I was more of a data analyst/business analyst years before, to analyze data and draw insightful charts and diagrams. With the interest in the value of the big data, I started my data science journey. I got my master's degree and graduated from the University of Washington last summer. But not until I was selected to work on a Microsoft project when I got to know the significance of the data engineer's role in the data workflow. Considering my personality that I like to approach precision, and I have strong sense of responsibility which drives me to push things forward with diligence, intention and hard work. I'm certain I'm a good fit for this data engineer position.
+I'm a data engineer working on a supply chain project at T-Mobile. My role in this project to build (structured streaming )data pipelines, develop tables, and prepare the data on the PowerBI dashboards for the audit team to do the transaction reconciliation. 
+Before my current job, I was more of a data driven analyst/consultant for a financing company years before. I relied on data, diagrams and charts to make investment analysis reports for my clients. With the interest in the value of the big data, I started my data science journey. I got my master's degree and graduated from the University of Washington last summer. But not until I was selected to work on a Microsoft project when I got to know the significance of the data engineer's role in the data workflow. Considering my personality that I like to be accurate, and I have strong sense of responsibility which drives me to push things forward with diligence, intention and hard work. That is why I decided to pursue a career as a data engineer. 
+For my next role, ideally I would like to join a company where I can work with a group of talented professionals and learn from them. So that I can better help them and the stakeholders with my skills and from my unique perspective.
+(manager: I can't say I have special power but I will do my best to help everyone out, meet and exceed your expections.)
 
-layers:
+But I think I still have a lot to learn, there are so many fancy tools and I have been working with Azure Databricks and pyspark from the beginning. I have learned a lot and built up lots of skills in my previous projects. 
+
+
 what I did: 
 ETL pipelines to ingest data, streaming data from evh to staging, create primary 
 in the digital layer, data pulled from API, has different capabilities from tables, pick up the data, apply ranks and add filters to collect the correct ones, and match with the different layers on different matching keys.   
 data model design:
-
+1. And I like to use backwards engineering method to find the point where it violates the logic and fix bugs.  
 
 Why leave current company?
 
+Originally, I started looking for new opportunities because of visa sponsorship. My current company got acquired by Concentrix and I got notified that the visa process would be postponed because of the assets acquistion. I applied for Square because my favorite poke and milk tea uses square devices, so I'm familiar with this logo. That speaks of my motivation. Truly speaking, I get motivated when I help others for good. I feel motivated especially when someone tells me you really helped me a lot. I'll be energetic for the whole day.
 
-1. And I like to use backwards engineering method to find the point where it violates the logic and fix bugs.  
+I don't want to work alone. For now, there are 4 engineers on my team. Every one takes care of one part, like one person works on security, one person works on ADF pipelines, I work on structured streaming pipelines and table development for a distribution center. I want to work where I can have discussions with other data engineers like to optimize the code/query, improve performance not just the data is working then it's good.
+
+
+
+
+As I learned more about Block/square, I got more and more interested in this position. 
+
+Efficient tools like airflow and snowflake, I  
+
+
+
 
 Last question:
 What can I do for this position to not only meet your expectation but also exceed it?

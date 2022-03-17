@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sql/lead, lag, decode.md",
+            "file": "database/Data Engineer/Self-Intro.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#OLTP",
+                "query": "market",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375
+    "width": 349
   },
   "right": {
     "id": "fa537b187ee74129",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sql/lead, lag, decode.md",
+                "file": "database/Data Engineer/Self-Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "16294e4616e677d9",
   "lastOpenFiles": [
-    "sql/lead, lag, decode.md",
-    "database/Data Warehousing/OLAP vs OLTP.md",
-    "database/Data Warehousing/grain.md",
-    "database/Data Warehousing/dimensional modeling.md",
-    "database/Data Warehousing/DML.md",
-    "database/Data Warehousing/DDL.md",
-    "database/Data Warehousing/Data Warehouse Models.md",
-    "database/Data Warehousing/build ETL pipeline.md",
-    "sql/sqaure.md",
-    "sql/float to int.md"
+    "database/Data Engineer/Self-Intro.md",
+    "sql/date_format.md",
+    "sql/DateTime.md",
+    "sql/NULL.md",
+    "sql/median.md",
+    "database/Data Warehousing/marketing data.md",
+    "database/Dashboard/effective KPI.md",
+    "database/Dimensional Data Model/Untitled.md",
+    "database/Data Warehousing/Cardinality.md",
+    "database/Data Warehousing/grain.md"
   ]
 }
